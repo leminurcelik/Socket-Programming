@@ -6,7 +6,7 @@ import os
 HEADER = 1024
 FORMAT = 'utf-8'
 DISCONNECT_MESSAGE = '!DISCONNECT'
-privateString = "QyVylmPZGtacMvURbdjRRbyrSxtkkxDm" #Initialize unique private string
+privateString = "" #Initialize unique private string
 
 #Authentication
 def authenticate_server(client): 
