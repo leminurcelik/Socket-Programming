@@ -8,7 +8,7 @@ import random
 HEADER = 1024
 FORMAT = 'utf-8'
 remaining_time = 30  #Initialize remaining time to 30 seconds
-privateString = "QyVylmPZGtacMvURbdjRRbyrSxtkkxDm" #Initialize unique private string
+privateString = "" #Initialize unique private string
 points = 0
 isStarted = False
 
